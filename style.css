@@ -10,10 +10,10 @@ body{
 }
 
 .material-icons{
-    font-size: 16px;
+    font-size: 20px;
     position: relative;
-    top: 5px;
-    left: 2px; 
+    top: 0.4vh;
+    left: 0.1vh; 
 }
 
 .login{
@@ -62,6 +62,52 @@ b{
 .th{
     padding: 14%;
     font-family:'Bebas Neue';
+}
+
+.vitrine{
+    background-color: #a05ccabd;
+    width: 150vh;
+    height: 100vh;
+    margin: auto;
+}
+
+.produto{
+    padding-top: 5.5vh; 
+    font-family:'Bebas Neue';
+    margin-left: 25vh;
+}
+
+.T1{  
+    font-size: 3.5vh;
+}
+
+.p1{
+    position: relative;
+    height: 200px;
+    width: 300px;
+}
+
+.sobre{
+    margin: auto;
+    background-color: #7c499cbd;
+    width: 150vh;
+    height: 100vh;
+}
+
+.contatos{
+    margin: auto;
+    background-color: #723697bd;
+    width: 150vh;
+    height: 100vh;
+}
+
+.material-icons-outlined{
+    margin-left: 10%;
+}
+
+.number{
+    bottom: 0.5vh;
+    position: relative;
 }
 
 footer{
