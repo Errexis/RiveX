@@ -49,7 +49,7 @@ body{
 }
 
 .box{
-    height: 500px;
+    height: 250px;
     width: 80%;
     margin: 10px auto;
     border-radius: 2%;
@@ -64,11 +64,18 @@ b{
     font-family:'Bebas Neue';
 }
 
+.th2{
+    padding: 16%;
+    font-family:'Bebas Neue';
+}
+
 .vitrine{
     background-color: #a05ccabd;
     width: 150vh;
     height: 100vh;
     margin: auto;
+    border-top-left-radius: 1.5vh;
+    border-top-right-radius: 1.5vh;
 }
 
 .produto{
